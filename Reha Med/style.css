@@ -1,0 +1,18 @@
+.upper {
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: larger;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: black;
+    background-color: white;
+}
+
+.text {
+    font-family: 'Noto Sans Mono', monospace;
+    background-color: rgb(184, 184, 184);
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    width: 200px;
+}
