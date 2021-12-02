@@ -1,0 +1,35 @@
+    .menu1 {
+        width: 1280px;
+        background-color: firebrick;
+        display: flex;
+        justify-content: space-between;
+        height: 30px;
+    }
+    
+    .upper {
+        margin: 6px;
+    }
+    
+    .banner {
+        background-image: url("banner.png");
+        height: 150px;
+        width: 380px;
+    }
+    
+    .menu2 {
+        width: 1280px;
+        background-color: firebrick;
+        display: flex;
+        justify-content: space-between;
+        height: 40px;
+    }
+    
+    .lower {
+        margin: 10px;
+    }
+    
+    .lowerbild {
+        background-image: url("lowerbild.jpg");
+        height: 510px;
+        width: 1280px;
+    }
